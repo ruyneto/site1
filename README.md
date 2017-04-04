@@ -10,4 +10,6 @@
 # 5-Como padrão do projeto somente vinham 2 scripts, tomei a liberdade de adicionar mais 2, o que administraria o nome do projeto nas páginas e o que vai ler.
 # 6- Apesar de ter uma página de Login, o sistema de Login não foi implementando, visto que não era necessário, apenas clicar no botão é suficiente para entrar na Administração.
 
+#IMPORTANTE, A PASTA DATABASE TEM 2 BANCOS DE DADOS, O QUE O PROJETO ESTÁ UTILIZANDO SE CHAMA BANCONOVO.sql
+
 # Espero Notícias.
